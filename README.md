@@ -13,4 +13,5 @@
 
 * Laboratorio 01 - Introdução
 * Laboratorio 02 - Continuação da introdução
+* Laboratorio 03 - Mecanismos de controle (While e IF )
 * 
